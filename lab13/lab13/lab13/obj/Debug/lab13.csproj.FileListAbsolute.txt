@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\lab13.Form1.resources
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\lab13.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\bin\Debug\lab13.exe.config
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\bin\Debug\lab13.exe
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\bin\Debug\lab13.pdb
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\lab13.exe
+C:\Users\Administrator\Desktop\BD2\lab13\lab13\obj\Debug\lab13.pdb
